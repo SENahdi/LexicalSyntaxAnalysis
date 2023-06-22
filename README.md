@@ -1,4 +1,4 @@
-# LexicalSyntaxAnalysis
+# Lexical & Syntax Analysis
 
 improving the lexical analyser in the Sebesta book. The improved version of the lexical analyser is now be able to (i) report errors in the identifiers and integer literals, (ii) Able to recognize assignment operator and certain keywords. 
 
