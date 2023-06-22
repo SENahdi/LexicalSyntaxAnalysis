@@ -6,3 +6,8 @@ the lexical analyser in the book is not able to report errors in identifiers and
 
 Furthermore a syntax analyser (parser) has been added to it. The syntax analyser will handle expressions described by the EBNF The parser will be based on recursive-descent parsing algorithm and the outline C code for the parser additionally improve it by adding error handling capability. 
 To handle the error-handling an error() function has been implemented. This function  reports errors and also indicates what is expected by the parser in case a wrong token is found at the input.
+
+
+once the content in the **front.in** is **run** this **output** should appear:
+
+![image](https://github.com/SENahdi/LexicalSyntaxAnalysis/assets/124052654/b03284fb-3e7b-4e15-b114-6af0012336a2)
